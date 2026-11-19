@@ -1,4 +1,4 @@
-# monerometrics-net
+# MoneroMetrics
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -65,4 +65,120 @@
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
 monerometrics-net is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://monerometrics.net/
+
+**Areas:** Company
+
+## MoneroMetrics on APIs.io
+
+Everything profiled for MoneroMetrics is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/monerometrics-net/](https://apis.io/providers/monerometrics-net/)** — or go straight to one of the APIs or properties below.
+
+### APIs (6)
+
+- [MoneroMetrics Chain API](https://apis.io/apis/monerometrics-net/monerometrics-net-chain-api/) — Blocks by height or hash, and how each was attributed to a pool.
+- [MoneroMetrics Mining pools API](https://apis.io/apis/monerometrics-net/monerometrics-net-mining-pools-api/) — Pool shares, and the pool APIs the attribution relies on.
+- [MoneroMetrics Network API](https://apis.io/apis/monerometrics-net/monerometrics-net-network-api/) — Hashrate, block time, mempool, emission and fees.
+- [MoneroMetrics Price and Haveno API](https://apis.io/apis/monerometrics-net/monerometrics-net-price-and-haveno-api/) — Centralized spot price against the Haveno peer-to-peer market.
+- [MoneroMetrics Reorgs and orphans API](https://apis.io/apis/monerometrics-net/monerometrics-net-reorgs-and-orphans-api/) — Chain reorganizations and orphan blocks this node observed live.
+- [MoneroMetrics Service API](https://apis.io/apis/monerometrics-net/monerometrics-net-service-api/) — Health of this API and of the index behind it.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [MoneroMetrics Agentic Access](https://apis.io/agentic-access/monerometrics-net/monerometrics-net-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [BlockDetailResponse](https://apis.io/schemas/monerometrics-net/monerometrics-net-block-detail-response/)
+- [NewsResponse](https://apis.io/schemas/monerometrics-net/monerometrics-net-news-response/)
+- [OrderBookResponse](https://apis.io/schemas/monerometrics-net/monerometrics-net-order-book-response/)
+- [PriceResponse](https://apis.io/schemas/monerometrics-net/monerometrics-net-price-response/)
+- [ProvenanceResponse](https://apis.io/schemas/monerometrics-net/monerometrics-net-provenance-response/)
+- [SpreadResponse](https://apis.io/schemas/monerometrics-net/monerometrics-net-spread-response/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Monerometrics Net Context](https://apis.io/jsonld/monerometrics-net/monerometrics-net-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [MoneroMetrics API Rules](https://apis.io/rules/monerometrics-net/monerometrics-net-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [MoneroMetrics Domain Security](https://apis.io/security/monerometrics-net/monerometrics-net-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://monerometrics.net/)
+- [API reference](https://monerometrics.net/docs)
+
+## API Evangelist rating
+
+**Kin Score 31.4** — thin · rubric 0.28.0 · scored 2026-11-19
+
+| Facet | Score |
+|---|---|
+| Discoverability | 58.9 |
+| Contract quality | 59.5 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 13.6 |
+| Access clarity | 0.0 |
+
+**Agent readiness 43.5** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | verified |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | documented (partial credit) |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 4.9** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/monerometrics-net/](https://apis.io/providers/monerometrics-net/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for MoneroMetrics: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/monerometrics-net/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
