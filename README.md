@@ -1,4 +1,4 @@
-# MoneroMetrics
+# monerometrics-net
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -68,18 +68,18 @@ monerometrics-net is a company surfaced via the API Evangelist harvest backlog (
 
 **Areas:** Company
 
-## MoneroMetrics on APIs.io
+## monerometrics-net on APIs.io
 
-Everything profiled for MoneroMetrics is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/monerometrics-net/](https://apis.io/providers/monerometrics-net/)** — or go straight to one of the APIs or properties below.
+Everything profiled for monerometrics-net is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/monerometrics-net/](https://apis.io/providers/monerometrics-net/)** — or go straight to one of the APIs or properties below.
 
 ### APIs (6)
 
-- [MoneroMetrics Chain API](https://apis.io/apis/monerometrics-net/monerometrics-net-chain-api/) — Blocks by height or hash, and how each was attributed to a pool.
-- [MoneroMetrics Mining pools API](https://apis.io/apis/monerometrics-net/monerometrics-net-mining-pools-api/) — Pool shares, and the pool APIs the attribution relies on.
-- [MoneroMetrics Network API](https://apis.io/apis/monerometrics-net/monerometrics-net-network-api/) — Hashrate, block time, mempool, emission and fees.
-- [MoneroMetrics Price and Haveno API](https://apis.io/apis/monerometrics-net/monerometrics-net-price-and-haveno-api/) — Centralized spot price against the Haveno peer-to-peer market.
-- [MoneroMetrics Reorgs and orphans API](https://apis.io/apis/monerometrics-net/monerometrics-net-reorgs-and-orphans-api/) — Chain reorganizations and orphan blocks this node observed live.
-- [MoneroMetrics Service API](https://apis.io/apis/monerometrics-net/monerometrics-net-service-api/) — Health of this API and of the index behind it.
+- [monerometrics-net Chain API](https://apis.io/apis/monerometrics-net/monerometrics-net-chain-api/) — Blocks by height or hash, and how each was attributed to a pool.
+- [monerometrics-net Mining pools API](https://apis.io/apis/monerometrics-net/monerometrics-net-mining-pools-api/) — Pool shares, and the pool APIs the attribution relies on.
+- [monerometrics-net Network API](https://apis.io/apis/monerometrics-net/monerometrics-net-network-api/) — Hashrate, block time, mempool, emission and fees.
+- [monerometrics-net Price and Haveno API](https://apis.io/apis/monerometrics-net/monerometrics-net-price-and-haveno-api/) — Centralized spot price against the Haveno peer-to-peer market.
+- [monerometrics-net Reorgs and orphans API](https://apis.io/apis/monerometrics-net/monerometrics-net-reorgs-and-orphans-api/) — Chain reorganizations and orphan blocks this node observed live.
+- [monerometrics-net Service API](https://apis.io/apis/monerometrics-net/monerometrics-net-service-api/) — Health of this API and of the index behind it.
 
 ### Published properties
 
@@ -89,7 +89,7 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Which operations an agent can call, which act, and which need a human in the loop.
 
-- [MoneroMetrics Agentic Access](https://apis.io/agentic-access/monerometrics-net/monerometrics-net-agentic-access/)
+- [monerometrics-net Agentic Access](https://apis.io/agentic-access/monerometrics-net/monerometrics-net-agentic-access/)
 
 #### JSON Schema (6)
 
@@ -112,13 +112,13 @@ Linked-data contexts for the provider's vocabulary.
 
 Spectral rulesets for the provider's contracts.
 
-- [MoneroMetrics API Rules](https://apis.io/rules/monerometrics-net/monerometrics-net-rules/)
+- [monerometrics-net API Rules](https://apis.io/rules/monerometrics-net/monerometrics-net-rules/)
 
 #### Security (1)
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [MoneroMetrics Domain Security](https://apis.io/security/monerometrics-net/monerometrics-net-domain-security/)
+- [monerometrics-net Domain Security](https://apis.io/security/monerometrics-net/monerometrics-net-domain-security/)
 
 ## Where to find this API
 
@@ -129,7 +129,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 31.4** — thin · rubric 0.28.0 · scored 2026-11-19
+**Kin Score 30.1** — thin · rubric 0.28.0 · scored 2026-11-19
 
 | Facet | Score |
 |---|---|
@@ -137,10 +137,10 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Contract quality | 59.5 |
 | Contract governance | 79.1 |
 | Operational transparency | 0.0 |
-| Developer ergonomics | 13.6 |
+| Developer ergonomics | 7.1 |
 | Access clarity | 0.0 |
 
-**Agent readiness 43.5** — agent-ready (gated down from agent-native)
+**Agent readiness 40.5** — agent-ready (gated down from agent-native)
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -154,7 +154,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | OpenAPI Examples | — |
 | Rate Limit Signal | verified |
 | Event Surface Described | — |
-| Agent Skills | unknown |
+| Agent Skills | — |
 | Well Known Catalog | yes |
 | Consent Identity | — |
 | Agent Card | conformant |
@@ -175,7 +175,7 @@ The rubric is published at [github.com/api-evangelist/kin-score](https://github.
 
 API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
 
-The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for MoneroMetrics: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for monerometrics-net: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
 
 ## Open an issue
 
